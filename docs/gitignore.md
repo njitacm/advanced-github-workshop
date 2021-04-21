@@ -1,0 +1,6 @@
+# .gitignore
+
+
+---
+
+[next](contributee.md)
