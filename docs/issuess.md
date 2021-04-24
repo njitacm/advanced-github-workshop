@@ -1,5 +1,5 @@
-# 
+# Issues
 
 ---
 
-[next]()
+[next](proj.md)

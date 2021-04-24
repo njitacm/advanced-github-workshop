@@ -1,5 +1,5 @@
-# 
+# LICENSE
 
 ---
 
-[next]()
+[next](issuess.md)
