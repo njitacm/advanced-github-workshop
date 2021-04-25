@@ -1,7 +1,9 @@
 # advanced-github-workshop
 * Check out [basic-github-workshop](https://github.com/njitacm/basic-github-workshop) for Github / Version Control Basics
 
-* Workshops are meant to be independent, and talks about  
+* Workshops are meant to be independent, and talks about increasing mastery of developing for Open Source.
+
+
 
 ## Table of Contents
 * [.gitignore](docs/gitignore.md)
@@ -17,10 +19,11 @@ This is meant to be a workshop for more advanced github topics. And to start you
 
 [Start Presentation](docs/gitignore.md)
 
+# PROJECT IS NOT COMPLETE. COMPLETE ALL TASKS IN THE ISSUES TAB
 
 <!-- Order: gitignore, contribute, license, issues, proj, oss-->
 
-<!-- Done: contribute -->
+<!-- Done: contribute, proj, oss -->
 
 <!-- 
 .gitignore

@@ -2,6 +2,7 @@
 
 When you want github to ignore some type of file, use a `.gitignore` file.
 
+
 ## Why ignore a file?
 
 * Sometimes when 
